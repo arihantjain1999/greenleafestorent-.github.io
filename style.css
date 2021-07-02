@@ -1,0 +1,252 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    top: 0%;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    left: 0%;
+}
+.font{
+    font-size: small;
+    margin: 5px;
+}
+.header{
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(edward-franklin-Nb_Q-M3Cdzg-unsplash.jpg);
+}
+.detail{
+    padding: 10px 0 15px 0 ;
+    width: 100%;
+    height: 20px;
+    border-bottom: 2px dotted white;
+}
+#b{
+    margin-left: 10%;
+    margin-right: 10px;
+    color: aliceblue;
+    cursor: pointer;
+}
+#a{
+    cursor: pointer;
+    margin-right: 10px;
+    color: aliceblue;
+}
+#c{
+    cursor: pointer;
+    margin-right: 10px;
+    color: aliceblue;
+}
+#d{
+    cursor: pointer;
+    margin-right: 10px;
+    color: aliceblue;
+}
+#e{
+    cursor: pointer;
+    margin-right: 10px;
+    color: aliceblue;
+}
+#f{
+    cursor: pointer;
+    color: aliceblue;
+}
+#g{
+    margin-right: 4%;
+    float: right;
+    cursor: pointer;
+    color: aliceblue;
+}
+#h{
+    margin-right: 4%;
+    float: right;
+    cursor: pointer;
+    color: aliceblue;
+}
+#i{
+    float: right;
+    cursor: pointer;
+    margin-right: 5%;
+    border: none;
+    color: aliceblue;
+    background: transparent;
+}
+.navbar{
+    width: 90%;
+    padding-left: 9%;
+    margin-top: 20px;
+}
+.logo{
+    width: 60px;
+}
+.logo1{
+    text-align: justify;
+    font-size: xx-large;
+    color: #0f823c;
+}
+.navbaritem{
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100px;
+    color: aliceblue;
+    float: right;
+    background: transparent;
+    border: none;
+}
+.navbaritem:hover{
+    color: #0f823c;
+    transform: scale(1.2);
+}
+.left{
+    display: inline-block;   
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+#j{
+    margin-left: 5px;
+}
+#k{
+    margin-left: 5px;
+}
+#l{
+    margin-left: 5px;
+}
+.slogan{
+    display: block;
+    text-align: center;
+    color: aliceblue;
+}
+.a{
+    margin-top: 10%;
+    font-family: 'Arizonia', cursive;
+    display: block;
+}
+.button{
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    width: 180px;
+    height: 40px;
+    margin-top: 7%;
+    color : #0f823c;
+    box-shadow: 3px 3px 5px black;
+}
+.item{
+    display: flex;    
+    margin: 2%;
+}
+.products{
+    margin: 5%;
+}
+.details{
+    border: 2px solid #1fab57;
+    border-left: none;
+}
+.hand{
+    color: #1fab57;
+    text-align: left;
+}
+.itemnav{
+    margin: 5px; 
+    display: flex;
+}
+#m{
+   cursor: pointer;
+    margin-right: 5%;
+    color: black;
+}
+#n{
+    margin-right: 5%;
+    cursor: pointer;
+    color: black;
+}
+#o{
+    cursor: pointer;
+    margin-right: 5%;
+    color: black;
+}
+.details{
+    padding: 1%;
+}
+.button1{
+    margin-top: 5px;
+    font-size: large;
+    border: 2px solid #1fab57;
+    color: #1fab57;
+    height: 40px;
+    width: 150px;
+    border-radius: 3px;
+    padding: 5px;
+    background-color: #fff;
+    cursor: pointer;
+}
+.button1:hover{
+    background-color: #1fab57;
+    color: aliceblue;
+}
+.button:hover{
+    background-color: #1fab57;
+    color: aliceblue;
+}
+.openinghours{
+    display: flex;
+    align-items: center;
+    background-color: #0f823c;
+}
+.open{
+    margin-left: 3%;
+    font-size: xx-large;
+    color: aliceblue;
+}
+.ul{
+    display: flex;
+    flex-wrap : wrap;
+}
+.li{
+    text-align: center;
+    border-right: 1px solid white ;
+    color: white;
+    list-style: none;
+    margin: 10px;
+    padding: 20px;
+}
+.lil{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    list-style: none;
+}
+.info{
+    padding: 4%;
+    background-color: black;
+    color: aliceblue;
+}
+table{
+    width: 90%;
+    text-align: left;
+}
+.email{
+    background-color: #fff;
+    height: 30px;
+    width: 50%;
+    border: none;
+    border-radius: 2px;
+    margin: 5px;
+}
+.submit{
+    background-color: #0f823c;
+    font-size: larger;
+
+}
+.GREEN{
+    color: #0f823c;
+}
+.text{
+    color: #fff;
+}
+th{
+    padding: 3% 0 3% 0;
+    font-size: larger;
+}

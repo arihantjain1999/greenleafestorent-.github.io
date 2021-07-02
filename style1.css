@@ -1,0 +1,33 @@
+.left{
+    display: block;
+}
+.navbaritem{
+    float: left;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+    top: 0%;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    left: 0%;
+}
+.a{
+    margin-top: 10%;
+    font-family: 'Arizonia', cursive;
+    display: block;
+}
+#b{
+    margin-right: 10px;
+    color: aliceblue;
+    cursor: pointer;
+    margin-left: 1%;
+}
+.navbar{
+    width: 90%;
+    padding-left: 1%;
+    margin-top: 20px;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+}
